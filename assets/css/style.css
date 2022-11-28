@@ -131,6 +131,9 @@ body {
   outline: none;
   border-radius: 2px;
   cursor: pointer;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
 }
 
 .task.done .check-button {
@@ -153,6 +156,11 @@ body {
 
 .content {
   margin: 0;
+}
+
+.content-data{
+  color: white;
+  font-size: 1.5rem;
 }
 
 .task.done .content {
